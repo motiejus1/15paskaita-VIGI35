@@ -1,0 +1,10 @@
+//kai skenuojat i qr koda
+
+//http://google.lt
+//informacija
+//ta pati paveiksliuka
+
+//qr kodas = bar kodas
+// juodas = 0, baltas = 1 (baltos vietos qr/bar koduose yra svarbesnes nei juodas)
+//base64
+//tiek nuorodoas, tiek tekstus, paveiksliukus
